@@ -10,13 +10,13 @@ The main character of this scene is a skeleton.
 
 Objects used in this scene:
 
-* Old "USSR" Lamp by ESSPLASHKID
+> Old "USSR" Lamp by ESSPLASHKID
 
-* WorldSkies Free Skybox by Pulsar Bytes
- 
-* Animated Skeleton by Lugia 3D
- 
-* Furniture FREE Pack by DexSoft Games  
+> WorldSkies Free Skybox by Pulsar Bytes
+
+> Animated Skeleton by Lugia 3D
+
+> Furniture FREE Pack by DexSoft Games  
 - - Chair
 - - Closet (Closet2)
 - - 3 Seat Sofa (3Seat2)
