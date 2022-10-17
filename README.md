@@ -10,33 +10,36 @@ The main character of this scene is a skeleton.
 
 Objects used in this scene:
 
-> Old "USSR" Lamp by ESSPLASHKID
-> WorldSkies Free Skybox by Pulsar Bytes
-> Animated Skeleton by Lugia 3D
-> Furniture FREE Pack by DexSoft Games  
-   Chair
-   Closet (Closet2)
-   3 Seat Sofa (3Seat2)
-   Double Seat Sofa (DoubleSeat2)
-   Metal Table
-   Round Table
+* Old "USSR" Lamp by ESSPLASHKID
+
+* WorldSkies Free Skybox by Pulsar Bytes
+ 
+* Animated Skeleton by Lugia 3D
+ 
+* Furniture FREE Pack by DexSoft Games  
+- - Chair
+- - Closet (Closet2)
+- - 3 Seat Sofa (3Seat2)
+- - Double Seat Sofa (DoubleSeat2)
+- - Metal Table
+- - Round Table
  
 > Worn Bookshelf by Jason Wong
-   Encyclopedia 2.3
-   Gardening book
-   Mid Thick Hardcover book 2.3
-   Thick hardcover Book 2.3
-   Thin Paperback
-   Book Set
-   Bookshelf
-   Box
-   Cardboard Box
-   Cupboard
-   70s record player
-   Film Reel
-   Musical Box
-   Old Record Player 
+- - Encyclopedia 2.3
+- - Gardening book
+- - Mid Thick Hardcover book 2.3
+- - Thick hardcover Book 2.3
+- - Thin Paperback
+- - Book Set
+- - Bookshelf
+- - Box
+- - Cardboard Box
+- - Cupboard
+- - 70s record player
+- - Film Reel
+- - Musical Box
+- - Old Record Player 
 
 > 3d Horror Ouija Board by CBDVisuals
-   Planchette
-   Ouija Board
+- - Planchette
+- - Ouija Board
