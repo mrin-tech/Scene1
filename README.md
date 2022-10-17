@@ -6,35 +6,37 @@ I was inspired by my liking for horror and thriller genres. I also thought this 
 
 The main character of this scene is a skeleton.
 
+*** Main Mechanics: The Scripted camera moves along with with the moving chair. The moving chair can be moved by the player by using the arrow keys on the keyboard. The Change Camera button can be used to switch between the 4 different cameras.
+
 Objects used in this scene:
 
-Old "USSR" Lamp by ESSPLASHKID
-WorldSkies Free Skybox by Pulsar Bytes
-Animated Skeleton by Lugia 3D
-Furniture FREE Pack by DexSoft Games  
-- Chair
-- Closet (Closet2)
-- 3 Seat Sofa (3Seat2)
-- Double Seat Sofa (DoubleSeat2)
-- Metal Table
-- Round Table
+> Old "USSR" Lamp by ESSPLASHKID
+> WorldSkies Free Skybox by Pulsar Bytes
+> Animated Skeleton by Lugia 3D
+> Furniture FREE Pack by DexSoft Games  
+   Chair
+   Closet (Closet2)
+   3 Seat Sofa (3Seat2)
+   Double Seat Sofa (DoubleSeat2)
+   Metal Table
+   Round Table
  
-Worn Bookshelf by Jason Wong
-- Encyclopedia 2.3
-- Gardening book
-- Mid Thick Hardcover book 2.3
-- Thick hardcover Book 2.3
-- Thin Paperback
-- Book Set
-- Bookshelf
-- Box
-- Cardboard Box
-- Cupboard
-- 70s record player
-- Film Reel
-- Musical Box
-- Old Record Player 
+> Worn Bookshelf by Jason Wong
+   Encyclopedia 2.3
+   Gardening book
+   Mid Thick Hardcover book 2.3
+   Thick hardcover Book 2.3
+   Thin Paperback
+   Book Set
+   Bookshelf
+   Box
+   Cardboard Box
+   Cupboard
+   70s record player
+   Film Reel
+   Musical Box
+   Old Record Player 
 
-3d Horror Ouija Board by CBDVisuals
-- Planchette
-- Ouija Board
+> 3d Horror Ouija Board by CBDVisuals
+   Planchette
+   Ouija Board
